@@ -1,0 +1,89 @@
+body{
+  font-family: 'Noto Sans KR', sans-serif;
+  background-color: #f0ece3;
+}
+.row{
+  font-size: 15px;
+  background-color: #f40552;
+  color: white;
+  margin: auto
+}
+
+.end-col{
+  text-align: center;
+  margin: auto;
+  
+
+
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+  text-decoration: underline;
+  letter-spacing: 0.2em;
+  color: #6a197d;
+  margin-top: 20px;
+}
+h3{
+  margin: 20px;
+  font-family: 'Fondamento', cursive;
+}
+hr{
+
+  height: 2px;
+  background-color: #6a197d;
+  width: 30vw;
+  margin: auto;
+  margin-top: 20px;
+}
+.navbar-brand{
+  font-family: 'Niconne', cursive;
+  font-size: 25px;
+  color:#fa26a0;
+  font-weight: 800;
+  text-decoration: underline;
+
+}
+.carousel{
+
+  left: 0;
+  right: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.carousel-images{
+
+  max-height: 80vh;
+  min-height: 80vh;
+
+}
+img , h4{
+  cursor: pointer;
+}
+h4:hover{
+  text-decoration: underline;
+}
+.content{
+  margin-top: 70px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.btn{
+  background-color: blue;
+  color: white;
+}
+.img-item{
+  max-height: 20vh;
+  max-width: 20vh;
+  min-height: 160px;
+  min-width: 160px;
+  width: 30vw;
+  height: 30vw;
+}
+.third-div{
+  margin: 10px;
+  padding: 10px;
+}
+.col2{
+  text-align: left;
+}
